@@ -12,6 +12,11 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VPeron&theme=github_dark" alt="Vini's GitHub Stats"/>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</div>
+
 ## Links
 
 <div align="center">
