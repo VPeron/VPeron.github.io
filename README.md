@@ -21,6 +21,7 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
 [Lichess](https://lichess.org/@/Vknee)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/VPeron/VPeron/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VPeron&theme=github_dark" alt="Vini's GitHub Stats"/>
 </div>
+
 
