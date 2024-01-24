@@ -17,7 +17,10 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </div>
 
-## Links
+
+<div align="center">
+    <h2> Links</h2>
+</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/vinicius-p-9a9197270">
@@ -25,7 +28,9 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
     </a>
 </div>
 
-## Hobbies
+<div align="center">
+    <h2> Hobbies </h2>
+</div>
 
 [Lichess](https://lichess.org/@/Vknee)
 
