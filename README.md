@@ -1,4 +1,6 @@
-# Vini Peron
+<div align="center">
+    <h1> Vini Peron</h1>
+</div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
