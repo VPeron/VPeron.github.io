@@ -8,10 +8,6 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
 
 
 
-
-In my spare time I like to learn new stuff by playing with tech like raspberry Pis, Flipper zero, VMs. I also enjoy playing chess
-and am a regular rock climber.
-
 ## Links
 
 <div align="center">
@@ -23,3 +19,8 @@ and am a regular rock climber.
 ## Hobbies
 
 [Lichess](https://lichess.org/@/Vknee)
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/VPeron/VPeron/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
