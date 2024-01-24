@@ -15,13 +15,11 @@ and am a regular rock climber.
 ## Links
 
 <div align="center">
-    <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/vinicius-p-9a9197270">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
 
-
-[Linkedin](www.linkedin.com/in/vinicius-p-9a9197270)
+## Hobbies
 
 [Lichess](https://lichess.org/@/Vknee)
