@@ -6,7 +6,9 @@
 and am a regular rock climber. I am actively looking for a job as a SOC analyst while studying CyberSecurity.</p>
 </div>
 
-
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VPeron&theme=github_dark" alt="Vini's GitHub Stats"/>
+</div>
 
 ## Links
 
@@ -20,8 +22,6 @@ and am a regular rock climber. I am actively looking for a job as a SOC analyst 
 
 [Lichess](https://lichess.org/@/Vknee)
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VPeron&theme=github_dark" alt="Vini's GitHub Stats"/>
-</div>
+
 
 
